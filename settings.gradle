@@ -1,0 +1,2 @@
+rootProject.name='Sydney Tourism Board - Finest Restaurants'
+include ':app'
